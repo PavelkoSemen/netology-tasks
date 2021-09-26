@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. calculator/1. calculator.iml" filepath="$PROJECT_DIR$/1. calculator/1. calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. worker/2. worker.iml" filepath="$PROJECT_DIR$/2. worker/2. worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. working-with-numbers/3. working-with-numbers.iml" filepath="$PROJECT_DIR$/3. working-with-numbers/3. working-with-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. population-census/4. population-census.iml" filepath="$PROJECT_DIR$/4. population-census/4. population-census.iml" />
-      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/worker/worker.iml" filepath="$PROJECT_DIR$/worker/worker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/working-with-numbers/working-with-numbers.iml" filepath="$PROJECT_DIR$/working-with-numbers/working-with-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Задачи нетология.iml" filepath="$PROJECT_DIR$/.idea/Задачи нетология.iml" />
     </modules>
   </component>
