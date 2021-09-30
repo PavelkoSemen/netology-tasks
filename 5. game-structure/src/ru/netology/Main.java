@@ -24,11 +24,11 @@ public class Main {
                 "C:/Games/NetologyGames/savegames/save2.dat",
                 "C:/Games/NetologyGames/savegames/save3.dat"
         );
-        SavingState savingState = new SavingState();
-        savingState.saveGame(pathSave.get(0), gameProgress1);
-        savingState.saveGame(pathSave.get(1), gameProgress2);
-        savingState.saveGame(pathSave.get(2), gameProgress3);
 
-        savingState.zipFiles("C:/Games/NetologyGames/savegames/zip.zip", pathSave);
+        SavingState.saveGame(pathSave.get(0), gameProgress1);
+        SavingState.saveGame(pathSave.get(1), gameProgress2);
+        SavingState.saveGame(pathSave.get(2), gameProgress3);
+
+        SavingState.zipFiles("C:/Games/NetologyGames/savegames/zip.zip", pathSave);
     }
 }

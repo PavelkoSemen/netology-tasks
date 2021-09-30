@@ -5,9 +5,9 @@ import java.util.List;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
-public class SavingState {
+public class  SavingState {
 
-    public void saveGame(String pathToSave, GameProgress gameProgress) {
+    public static void saveGame(String pathToSave, GameProgress gameProgress) {
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(pathToSave))) {
             oos.writeObject(gameProgress);
         } catch (IOException e) {
@@ -15,7 +15,7 @@ public class SavingState {
         }
     }
 
-    public void zipFiles(String pathToZip, List<String> pathToSave) {
+    public static void zipFiles(String pathToZip, List<String> pathToSave) {
         try (ZipOutputStream zout = new ZipOutputStream(new FileOutputStream(pathToZip))) {
             for (String path : pathToSave) {
                 try (FileInputStream fis = new FileInputStream(path)) {
