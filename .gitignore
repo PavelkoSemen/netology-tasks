@@ -11,6 +11,11 @@
 .mtj.tmp/
 .gradle
 build
+gradle
+
+# ignore Gradle file
+gradlew
+gradlew.bat
 
 # Package Files #
 *.jar
