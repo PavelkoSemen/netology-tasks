@@ -1,0 +1,5 @@
+rootProject.name = '7. multi-module-gradle-project'
+include 'db'
+include 'api'
+include 'service'
+
