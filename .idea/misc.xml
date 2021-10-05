@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/8. parser-csv-xml-json" />
     <file type="web" url="file://$PROJECT_DIR$/7. multi-module-gradle-project" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
