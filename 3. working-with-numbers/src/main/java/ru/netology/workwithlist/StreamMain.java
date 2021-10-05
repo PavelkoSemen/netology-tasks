@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.workwithlist;
 
 import java.util.Arrays;
 import java.util.List;
