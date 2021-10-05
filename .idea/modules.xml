@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/3. working-with-numbers/3. working-with-numbers.iml" filepath="$PROJECT_DIR$/3. working-with-numbers/3. working-with-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. population-census/4. population-census.iml" filepath="$PROJECT_DIR$/4. population-census/4. population-census.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. game-structure/5. game-structure.iml" filepath="$PROJECT_DIR$/5. game-structure/5. game-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-maven-project/6. multi-module-maven-project.iml" filepath="$PROJECT_DIR$/multi-module-maven-project/6. multi-module-maven-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-maven-project/api/api.iml" filepath="$PROJECT_DIR$/multi-module-maven-project/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-maven-project/db/db.iml" filepath="$PROJECT_DIR$/multi-module-maven-project/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-maven-project/service/service.iml" filepath="$PROJECT_DIR$/multi-module-maven-project/service/service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Задачи нетология.iml" filepath="$PROJECT_DIR$/.idea/Задачи нетология.iml" />
     </modules>
   </component>
