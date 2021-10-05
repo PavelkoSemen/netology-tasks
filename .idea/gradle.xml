@@ -10,6 +10,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/8. parser-csv-xml-json" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/7. multi-module-gradle-project" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/7. multi-module-gradle-project" />
+            <option value="$PROJECT_DIR$/7. multi-module-gradle-project/api" />
+            <option value="$PROJECT_DIR$/7. multi-module-gradle-project/db" />
+            <option value="$PROJECT_DIR$/7. multi-module-gradle-project/service" />
           </set>
         </option>
       </GradleProjectSettings>
