@@ -2,28 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile name="Gradle Imported" enabled="true">
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
-        </processorPath>
-        <module name="8._parser-csv-xml-json.main" />
-      </profile>
-    </annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="db" />
-        <module name="service" />
-        <module name="api" />
-      </profile>
+      <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="6. multi-module-maven-project" target="16" />
-      <module name="api" target="16" />
-      <module name="db" target="16" />
-      <module name="service" target="16" />
+      <module name="7. multi-module-gradle-project" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

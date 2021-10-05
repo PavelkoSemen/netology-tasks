@@ -5,11 +5,6 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/8. parser-csv-xml-json" />
-        <option name="gradleJvm" value="liberica-16" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/8. parser-csv-xml-json" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/7. multi-module-gradle-project" />
         <option name="modules">
           <set>
@@ -17,6 +12,15 @@
             <option value="$PROJECT_DIR$/7. multi-module-gradle-project/api" />
             <option value="$PROJECT_DIR$/7. multi-module-gradle-project/db" />
             <option value="$PROJECT_DIR$/7. multi-module-gradle-project/service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/8. parser-csv-xml-json" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/8. parser-csv-xml-json" />
           </set>
         </option>
       </GradleProjectSettings>
