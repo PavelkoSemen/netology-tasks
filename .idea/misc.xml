@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/4. population-census" />
     <file type="web" url="file://$PROJECT_DIR$/7. multi-module-gradle-project" />
     <file type="web" url="file://$PROJECT_DIR$/8. parser-csv-xml-json" />
+    <file type="web" url="file://$PROJECT_DIR$/9. client-server application" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
