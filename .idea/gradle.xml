@@ -5,6 +5,28 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/10. http-client-task1" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/10. http-client-task1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/11. http-client-task2" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/11. http-client-task2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/3. working-with-numbers" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/Gradle/gradle-7.2" />
         <option name="gradleJvm" value="#JAVA_HOME" />
@@ -24,33 +46,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/4. population-census" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/7. multi-module-gradle-project" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/Gradle/gradle-7.2" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/7. multi-module-gradle-project" />
-            <option value="$PROJECT_DIR$/7. multi-module-gradle-project/api" />
-            <option value="$PROJECT_DIR$/7. multi-module-gradle-project/db" />
-            <option value="$PROJECT_DIR$/7. multi-module-gradle-project/service" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/8. parser-csv-xml-json" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/Gradle/gradle-7.2" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/8. parser-csv-xml-json" />
           </set>
         </option>
       </GradleProjectSettings>
