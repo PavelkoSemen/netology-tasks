@@ -3,9 +3,43 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
+        </processorPath>
+        <module name="11._http-client-task2.main" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="3._working-with-numbers" target="17" />
+      <module name="3._working-with-numbers.main" target="17" />
+      <module name="3._working-with-numbers.test" target="17" />
+      <module name="4._population-census" target="17" />
+      <module name="4._population-census.main" target="17" />
+      <module name="4._population-census.test" target="17" />
       <module name="7. multi-module-gradle-project" target="16" />
+      <module name="7._multi-module-gradle-project" target="17" />
+      <module name="7._multi-module-gradle-project.api" target="17" />
+      <module name="7._multi-module-gradle-project.api.main" target="17" />
+      <module name="7._multi-module-gradle-project.api.test" target="17" />
+      <module name="7._multi-module-gradle-project.db" target="17" />
+      <module name="7._multi-module-gradle-project.db.main" target="17" />
+      <module name="7._multi-module-gradle-project.db.test" target="17" />
+      <module name="7._multi-module-gradle-project.main" target="17" />
+      <module name="7._multi-module-gradle-project.service" target="17" />
+      <module name="7._multi-module-gradle-project.service.main" target="17" />
+      <module name="7._multi-module-gradle-project.service.test" target="17" />
+      <module name="7._multi-module-gradle-project.test" target="17" />
+      <module name="8._parser-csv-xml-json" target="17" />
+      <module name="8._parser-csv-xml-json.main" target="17" />
+      <module name="8._parser-csv-xml-json.test" target="17" />
+      <module name="api" target="16" />
+      <module name="db" target="16" />
+      <module name="service" target="16" />
+      <module name="test" target="17" />
+      <module name="test.main" target="17" />
+      <module name="test.test" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

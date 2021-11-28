@@ -6,12 +6,20 @@
     <file type="web" url="file://$PROJECT_DIR$/4. population-census" />
     <file type="web" url="file://$PROJECT_DIR$/7. multi-module-gradle-project" />
     <file type="web" url="file://$PROJECT_DIR$/8. parser-csv-xml-json" />
+    <file type="web" url="file://$PROJECT_DIR$/test" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/6. multi-module-maven-project/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/6. multi-module-maven-project/api/pom.xml" />
+        <option value="$PROJECT_DIR$/6. multi-module-maven-project/db/pom.xml" />
+        <option value="$PROJECT_DIR$/6. multi-module-maven-project/service/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="liberica-17" project-jdk-type="JavaSDK">
