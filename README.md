@@ -10,3 +10,9 @@
 5. Игровая структура
 6. Многомодульный проект на Maven
 7. Многомодульный проект на Gradle
+8. Парсер XML и JSON
+9. Клиент-серверное приложение(Socket)
+10. Apache Http Client - кошки
+11. Apache Http Client - NASA
+12. Паттерн Builder
+13. Паттерн Singleton
