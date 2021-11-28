@@ -14,5 +14,3 @@
 9. Клиент-серверное приложение(Socket)
 10. Apache Http Client - кошки
 11. Apache Http Client - NASA
-12. Паттерн Builder
-13. Паттерн Singleton
