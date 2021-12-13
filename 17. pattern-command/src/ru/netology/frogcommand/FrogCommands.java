@@ -1,0 +1,35 @@
+package ru.netology.frogcommand;
+
+import ru.netology.frog.Frog;
+
+public class FrogCommands {
+    public static FrogCommand jumpRightCommand(Frog frog, int steps) {
+
+        return new FrogCommand() {
+            @Override
+            public boolean doit() {
+                return frog.jump(steps);
+            }
+
+            @Override
+            public boolean undo() {
+                return frog.jump(steps * -1);
+            }
+        };
+
+    }
+
+    public static FrogCommand jumpLeftCommand(Frog frog, int steps) {
+        return new FrogCommand() {
+            @Override
+            public boolean doit() {
+                return frog.jump(steps * -1);
+            }
+
+            @Override
+            public boolean undo() {
+                return frog.jump(steps);
+            }
+        };
+    }
+}

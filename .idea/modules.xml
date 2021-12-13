@@ -4,9 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. calculator/1. calculator.iml" filepath="$PROJECT_DIR$/1. calculator/1. calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/15. pattern-facade/15. pattern-facade.iml" filepath="$PROJECT_DIR$/15. pattern-facade/15. pattern-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.  pattern-builder/12.  pattern-builder.iml" filepath="$PROJECT_DIR$/12.  pattern-builder/12.  pattern-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. pattern_singleton/13. pattern_singleton.iml" filepath="$PROJECT_DIR$/13. pattern_singleton/13. pattern_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17. pattern-command/17. pattern-command.iml" filepath="$PROJECT_DIR$/17. pattern-command/17. pattern-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19. Inter-thread-dialog-counter/19. Inter-thread-dialog-counter.iml" filepath="$PROJECT_DIR$/19. Inter-thread-dialog-counter/19. Inter-thread-dialog-counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18. inter-thread-dialogue/18. inter-thread-dialogue.iml" filepath="$PROJECT_DIR$/18. inter-thread-dialogue/18. inter-thread-dialogue.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. worker/2. worker.iml" filepath="$PROJECT_DIR$/2. worker/2. worker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3._working-with-numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/3._working-with-numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3._working-with-numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/3._working-with-numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20. array-calculator/20. array-calculator.iml" filepath="$PROJECT_DIR$/20. array-calculator/20. array-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/3._working-with-numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/3._working-with-numbers.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. game-structure/5. game-structure.iml" filepath="$PROJECT_DIR$/5. game-structure/5. game-structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Задачи нетология.iml" filepath="$PROJECT_DIR$/.idea/Задачи нетология.iml" />
