@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. calculator/1. calculator.iml" filepath="$PROJECT_DIR$/1. calculator/1. calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. pattern-adapter/14. pattern-adapter.iml" filepath="$PROJECT_DIR$/14. pattern-adapter/14. pattern-adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/15. pattern-facade/15. pattern-facade.iml" filepath="$PROJECT_DIR$/15. pattern-facade/15. pattern-facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/12.  pattern-builder/12.  pattern-builder.iml" filepath="$PROJECT_DIR$/12.  pattern-builder/12.  pattern-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/13. pattern_singleton/13. pattern_singleton.iml" filepath="$PROJECT_DIR$/13. pattern_singleton/13. pattern_singleton.iml" />
