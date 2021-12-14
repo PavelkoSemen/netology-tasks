@@ -15,6 +15,7 @@ public class Seller {
     public Seller(CarDealership dealership) {
         this.dealership = dealership;
     }
+
     public Car sellСar() {
         locker.lock();
         try {
@@ -28,16 +29,20 @@ public class Seller {
         } finally {
             locker.unlock();
         }
-        
+
         return dealership.getParking().remove(index);
     }
 
 
     public void checkCar(Car car) {
         locker.lock();
-        dealership.getParking().add(car);
-        availabilityСar.signal();
-        locker.unlock();
+        try {
+            dealership.getParking().add(car);
+            availabilityСar.signal();
+        } finally {
+            locker.unlock();
+        }
+
     }
 
 
