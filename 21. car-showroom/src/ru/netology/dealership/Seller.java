@@ -17,8 +17,8 @@ public class Seller {
     }
 
     public Car sellСar() {
-        locker.lock();
         try {
+            locker.lock();
             System.out.printf("%s пришел покупать автомобиль\n", Thread.currentThread().getName());
             while (dealership.isParkingEmpty()) {
                 System.out.println("Машин нет");
@@ -35,8 +35,8 @@ public class Seller {
 
 
     public void checkCar(Car car) {
-        locker.lock();
         try {
+            locker.lock();
             dealership.getParking().add(car);
             availabilityСar.signal();
         } finally {
