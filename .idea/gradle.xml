@@ -28,11 +28,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/27. space-cleaner" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/26. heavy-computation" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/Gradle/gradle-7.2" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/27. space-cleaner" />
+            <option value="$PROJECT_DIR$/26. heavy-computation" />
           </set>
         </option>
       </GradleProjectSettings>
