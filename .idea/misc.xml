@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/10. http-client-task1" />
     <file type="web" url="file://$PROJECT_DIR$/11. http-client-task2" />
+    <file type="web" url="file://$PROJECT_DIR$/26. heavy-computation" />
     <file type="web" url="file://$PROJECT_DIR$/3. working-with-numbers" />
     <file type="web" url="file://$PROJECT_DIR$/4. population-census" />
     <file type="web" url="file://$PROJECT_DIR$/7. multi-module-gradle-project" />
