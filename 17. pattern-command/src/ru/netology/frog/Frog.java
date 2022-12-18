@@ -10,6 +10,8 @@ public class Frog {
         position = 5;
     }
 
+
+
     public boolean jump(int steps) {
         int newPosition = position + steps;
         if (newPosition < MIN_POSITION || newPosition > MAX_POSITION) {
